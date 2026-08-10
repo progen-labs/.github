@@ -6,7 +6,7 @@ Born from its original internal codename "Project First Child," the name Progen 
 Progen Labs is a technology product company dedicated to solving complex software and productivity problems through innovative, high-performance tools.
 
 # What We Build
-⚬	Collab Tools & Engines: High-performance software designed to bridge workflows between cross-functional teams.
-⚬	Open-Source Primitives: Developer-friendly libraries and infrastructure for modern web applications.
+- Collab Tools & Engines: High-performance software designed to bridge workflows between cross-functional teams.
+- Open-Source Primitives: Developer-friendly libraries and infrastructure for modern web applications.
 
 Maintained by @debnathSD.
