@@ -1,4 +1,4 @@
-# Progen Labs
+# Progen Labs - open source, non-profit, no telemetry, no account required
 Building the next generation of open-source software solutions.
 
 # About Us
