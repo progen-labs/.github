@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://progen-labs.github.io/website/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://progen-labs.github.io/website/brand/progen-seed-emblem.svg">
+      <img alt="Progen Labs" src="https://progen-labs.github.io/website/brand/progen-seed-emblem-light.svg" width="200">
+    </picture>
+  </a>
+</p>
+
 # Progen Labs
 Building the next generation of open-source software solutions.
 
